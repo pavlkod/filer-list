@@ -1,0 +1,8 @@
+.title {
+  text-align: left;
+  display: flex;
+}
+
+.unstock {
+  color: #c00;
+}
